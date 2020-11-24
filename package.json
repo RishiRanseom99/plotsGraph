@@ -1,0 +1,14 @@
+{
+  "name": "graphicalplot",
+  "version": "1.0.0",
+  "description": "plot graph from function and data",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rishi singhal",
+  "license": "ISC",
+  "dependencies": {
+    "function-plot": "^1.22.2"
+  }
+}
